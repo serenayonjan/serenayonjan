@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋 I'm Serena Yonjan and this is my Github Profile! 
 
-<!--
-**serenayonjan/serenayonjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**serenayonjan/serenayonjan** is a first README.md profile I made myself😄
+🔭 I’m a Student
+🌱 I’m currently doing my Bachelor in Computer Science 
 
-Here are some ideas to get you started:
+About Me:
+Sleeping- I love to sleeping when i have nothing to do.
+Reading- I like reading Novels aswell.
+Traveling- Travel is fun and i guess everyone loves to.
+Coding - Though i'm not good at it but i enjoy doing coding and learning it every day to make my self good at it😄😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
